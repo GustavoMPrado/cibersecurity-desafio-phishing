@@ -1,21 +1,56 @@
-# Phishing para captura de senhas do Facebook
+# Phishing – Academic Cybersecurity Study
 
-### Ferramentas
+## ⚠️ Ethical and Academic Disclaimer
+
+This repository contains an **academic laboratory exercise** developed for educational purposes only.
+The goal of this project is to **understand how phishing attacks operate** in order to improve
+**detection, prevention, and user awareness** in cybersecurity.
+
+All activities were performed in **controlled environments**, using isolated test systems.
+This content **must not be used for malicious or illegal activities**.
+
+---
+
+## 🎯 Objective
+
+The objective of this study is to analyze the technical structure of phishing attacks,
+including credential harvesting techniques, to better understand:
+
+- How phishing pages are created
+- How attackers attempt to deceive users
+- How such attacks can be identified and prevented
+
+---
+
+## 🛠️ Tools Used
 
 - Kali Linux
-- setoolkit
+- Social Engineering Toolkit (SET)
+- Isolated laboratory environment
 
-### Configurando o Phishing no Kali Linux
+---
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+## 🧪 Laboratory Overview (High-level)
 
-### Resutados
+This project demonstrates, at a **conceptual level**, how phishing attacks can be simulated
+in a cybersecurity lab for study and defense purposes.
 
-![Alt text](./passwd.png "Optional title")
+⚠️ **Operational step-by-step details were intentionally omitted** to avoid misuse.
+
+---
+
+## 🛡️ Cybersecurity Focus
+
+From a defensive standpoint, this study helps security professionals to:
+
+- Recognize phishing indicators
+- Train users to avoid social engineering attacks
+- Improve security awareness programs
+- Support blue team and SOC analysis
+
+---
+
+## 📚 Academic Context
+
+This project was developed as part of a cybersecurity learning program
+and is intended strictly for **educational and ethical use**.
